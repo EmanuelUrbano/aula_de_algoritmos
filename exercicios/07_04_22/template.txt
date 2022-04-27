@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main(){
+	/*variaveis de entrada*/
+	/*variaveis de saida*/
+	/*variavel contadora*/
+	int i;
+	/*fazer ação*/
+	for(i=0;i==0;i++){
+		
+	}
+	
+}
